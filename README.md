@@ -22,5 +22,5 @@ In this section, you will find all the operations that are needed for a customer
 
 [![printsold.gif](https://i.postimg.cc/DypJsVPs/printsold.gif)](https://postimg.cc/SJ8xFv5N)
 
-**And a flawless and secured way to change your password based on id **
+** And a flawless and secured way to change your password based on id **
 [![security.gif](https://i.postimg.cc/HLwxJh21/security.gif)](https://postimg.cc/bGv8WLWm)
