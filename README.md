@@ -14,11 +14,13 @@ The system use a simple algorithm to check if the entered data are valid.
 
 In this section, you will find all the operations that are needed for a customer, arranged in a simple and intuitive way:
 
- ***Extract money***
+ **Extract money**
 
 [![retragere.gif](https://i.postimg.cc/9Qzxth5j/retragere.gif)](https://postimg.cc/QFGkhvd6)
 
- ***Print sold***
+ **Print sold**
 
 [![printsold.gif](https://i.postimg.cc/DypJsVPs/printsold.gif)](https://postimg.cc/SJ8xFv5N)
 
+**And a flawless and secured way to change your password based on id **
+[![security.gif](https://i.postimg.cc/HLwxJh21/security.gif)](https://postimg.cc/bGv8WLWm)
