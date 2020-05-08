@@ -1,0 +1,5 @@
+id	serialNumber	password	sold	clientFn	clientLN	transfered
+1	1234	9210	1800	Adrian	Popescu	1	
+2	3306	2604	2500	Ioana	Ionescu	0	
+3	2901	2604	2978	Marian	Serban	0	
+4	s824ulm	6021	21400	Monica	Creanga	1	
