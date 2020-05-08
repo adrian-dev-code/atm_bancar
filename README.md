@@ -26,9 +26,9 @@ In this section, you will find all the operations that are needed for a customer
 
 [![security.gif](https://i.postimg.cc/HLwxJh21/security.gif)](https://postimg.cc/bGv8WLWm)
 
-***and more***
+***and more :)***
 
-All of these with the help of a good, reliable and easy to read object-oriented code:
+All of these are possible with the help of a good, reliable and easy to read object-oriented code:
 
 [![code.gif](https://i.postimg.cc/02D6Ln63/code.gif)](https://postimg.cc/Yh2qF1zf)
 
