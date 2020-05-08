@@ -8,7 +8,7 @@ which is used for ***login and for other specific operations***
 [![loginsystem.gif](https://i.postimg.cc/2yPdc85M/loginsystem.gif)](https://postimg.cc/2L7B3Yh7)
 
 The system use a simple algorithm to check if the entered data are valid.
-***After these verifications, you will be able to see all available options.***
+***After these verifications, you will be able to see all available options:***
 
 [![loginsystem.gif](https://i.postimg.cc/2yPdc85M/loginsystem.gif)](https://postimg.cc/2L7B3Yh7)
 
@@ -26,7 +26,7 @@ In this section, you will find all the operations that are needed for a customer
 
 [![security.gif](https://i.postimg.cc/HLwxJh21/security.gif)](https://postimg.cc/bGv8WLWm)
 
-***and more :)***
+***and more :).***
 
 All of these are possible with the help of a good, reliable and easy to read object-oriented code:
 
