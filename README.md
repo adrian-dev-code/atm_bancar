@@ -23,4 +23,10 @@ In this section, you will find all the operations that are needed for a customer
 [![printsold.gif](https://i.postimg.cc/DypJsVPs/printsold.gif)](https://postimg.cc/SJ8xFv5N)
 
 **And a flawless and secured option to change your password based on id**
+
 [![security.gif](https://i.postimg.cc/HLwxJh21/security.gif)](https://postimg.cc/bGv8WLWm)
+
+All of these with the help of a good, reliable and easy to read object-oriented code:
+
+[![code.gif](https://i.postimg.cc/02D6Ln63/code.gif)](https://postimg.cc/Yh2qF1zf)
+
